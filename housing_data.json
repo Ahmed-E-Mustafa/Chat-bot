@@ -1,0 +1,50 @@
+[
+    {
+        "title": "House for Rent in F-9",
+        "location": "F-9, Islamabad",
+        "sector": "F-9",
+        "latitude": 33.6954,
+        "longitude": 73.0322,
+        "rent_or_buy": "rent",
+        "price": 60000,
+        "beds": 3,
+        "baths": 2,
+        "area": 2000
+    },
+    {
+        "title": "House for Sale in G-13",
+        "location": "G-13, Islamabad",
+        "sector": "G-13",
+        "latitude": 33.6365,
+        "longitude": 72.9795,
+        "rent_or_buy": "buy",
+        "price": 10000000,
+        "beds": 5,
+        "baths": 4,
+        "area": 1500
+ },
+{
+        "title": "Apartment for Rent in H-8",
+        "location": "H-8, Islamabad",
+        "sector": "H-8",
+        "latitude": 33.6917,
+        "longitude": 73.0569,
+        "rent_or_buy": "rent",
+        "price": 35000,
+        "beds": 2,
+        "baths": 1,
+        "area": 1000
+    },
+    {
+        "title": "Bungalow for Sale in G-9",
+        "location": "G-9, Islamabad",
+        "sector": "G-9",
+        "latitude": 33.6939,
+        "longitude": 73.0369,
+        "rent_or_buy": "buy",
+        "price": 8000000,
+        "beds": 4,
+        "baths": 3,
+        "area": 2500
+    }
+]
